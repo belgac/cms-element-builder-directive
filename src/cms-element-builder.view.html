@@ -1,0 +1,1 @@
+<div ng-repeat="element in cmsElementBuilder.elements  | orderBy : 'order'" ng-class="element.parentClass" ng-include="cmsElementBuilder.getViewUrl(element.type)"></div>
