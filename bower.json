@@ -1,0 +1,18 @@
+{
+  "name": "cms-element-builder-directive",
+  "description": "A directive that generates a page depending on an element object",
+  "main": "dist/cms-element-builder-directive.min.js",
+  "authors": [
+    "Hans Scheuren <hans.scheuren@bizliner.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/belgac/cms-element-builder-directive",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
